@@ -1,0 +1,25 @@
+{
+  "name": "genially-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalejandrov93/genially-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jalejandrov93/genially-test/issues"
+  },
+  "homepage": "https://github.com/jalejandrov93/genially-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
